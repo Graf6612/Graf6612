@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Graf6612
+- 👋 Hi, I’m @Yaroslav Horodynskyi
 - 👀 I’m interested in ... Development in Java Script
 - 🌱 I’m currently learning : At the moment I am not studying anywhere)))   
 - 💞️ I’m looking to collaborate on ... The main thing is to work with someone and improve your skills() 
